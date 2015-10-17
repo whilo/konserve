@@ -1,1 +1,1 @@
-Moved to: https://github.com/replikativ/replikativ
+Moved to: https://github.com/replikativ/konserve
